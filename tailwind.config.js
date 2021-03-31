@@ -4,9 +4,9 @@ module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     colors: {
-      'purple-light': '#fcfaff',
+      'purple-light': '#E8EEF2',
       purple: '#639',
-      'purple-dark': '#362066',
+      'purple-dark': '#080708',
     },
     fontFamily: {
       sans: ['ManropeVariable', ...defaultTheme.fontFamily.sans],
