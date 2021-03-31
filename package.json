@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-vadyan",
+  "name": "sdq-creative",
   "version": "2.0.0",
   "license": "MIT",
-  "author": "p1t1ch <belobeev.kirill@gmail.com>",
+  "author": "CesarBenavides777 <cbenavides2527@gmail.com>",
   "scripts": {
     "start": "gatsby develop -H 0.0.0.0",
     "build": "gatsby build",

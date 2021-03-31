@@ -1,10 +1,10 @@
 const config = {
   // Project title. Used as SEO title and PWA name
-  title: 'Gatsby Starter Vadyan',
+  title: 'SDQ Creative',
   // Project short name. Used by PWA
-  shortTitle: 'GS Vadyan',
+  shortTitle: 'SDQ',
   // Project description. Used in SEO meta tag and by PWA
-  description: 'A modern content-agnostic Gatsby starter',
+  description: 'Private Software Engineering firm in Austin Texas.',
   // Keywords describing the project. Used in SEO meta tag
   keywords: ['gatsby', 'gatsby-starter', 'react', 'typescript', 'storybook', 'jest', 'pwa', 'graphql'],
   // Absolute deployment path (without trailing slash). Used as base URL in SEO meta tags
